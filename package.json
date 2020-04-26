@@ -1,6 +1,6 @@
 {
-  "name": "@lib/mask",
-  "version": "1.0.0",
+  "name": "cs-mask",
+  "version": "0.0.1",
   "description": "Library mask",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,7 +8,23 @@
     "build": "tsc",
     "test": "jest"
   },
+  "keywords": [
+    "mask",
+    "typescript",
+    "react",
+    "angular"
+  ],
+  "tags": [
+    "mask",
+    "typescript",
+    "react",
+    "angular"
+  ],
   "author": "Cosmo Guedes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmoneto1/-lib-mask"
+  },
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^25.2.1",
